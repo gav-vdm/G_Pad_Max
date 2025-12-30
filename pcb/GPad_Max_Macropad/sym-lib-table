@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "/Users/gavin/Library/CloudStorage/OneDrive-Personal/Documents/KiCad/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "/Users/gavin/Library/CloudStorage/OneDrive-Personal/Documents/KiCad/OLED_128X64_1.3_I2C/OLED_128X64_1.3_I2C.kicad_sym")(options "")(descr ""))
+  (lib (name "SN")(type "KiCad")(uri "/Users/gavin/Downloads/SN74AHCT1G125DBVR/SN74AHCT1G125DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "${KIPRJMOD}/Libraries/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "DM-OLED096-636")(type "KiCad")(uri "${KIPRJMOD}/Libraries/DM-OLED096-636/DM-OLED096-636.kicad_sym")(options "")(descr ""))
+)
