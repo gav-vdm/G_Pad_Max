@@ -8,8 +8,6 @@
 - 16x SK6812 MINI-E LEDs
 - 1x 0.91 inch OLED displays
 - 8x Blank DSA keycaps
-- 10x M3x16mm screws
-- 10x M3x5mx4mm
 - 1x Seeed XIAO RP2040
 - 1x 3D PRINTED CASE
 # Images 
