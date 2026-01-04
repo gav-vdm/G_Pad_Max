@@ -16,7 +16,7 @@
 - ![](https://github.com/gav-vdm/G_Pad_Max/blob/main/SCR-20251230-ujdv.png)
 
 
-# Inf
+# Info
 I want to make a few iterations on the case when I physically have the PCB so for now it is just temporary to get the sizing right. 
 
 I also need to review the firmware when I assemble the pcb. 
