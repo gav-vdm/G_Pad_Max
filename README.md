@@ -14,6 +14,7 @@
 - ![](https://github.com/gav-vdm/G_Pad_Max/blob/main/SCR-20251230-uitr.png)
 - ![](https://github.com/gav-vdm/G_Pad_Max/blob/main/SCR-20251230-uizq.png)
 - ![](https://github.com/gav-vdm/G_Pad_Max/blob/main/SCR-20251230-ujdv.png)
+- ![](https://github.com/gav-vdm/G_Pad_Max/blob/main/SCR-20260106-oaje.png)
 
 
 # Info
